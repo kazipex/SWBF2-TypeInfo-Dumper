@@ -1,7 +1,7 @@
 # SWBF2Dumper
 A fork of BFVDumper, ported to work with Star Wars Battlefront II (2017).
 
-Credits go to reunion (UnknownCheats) who originally wrote this dumper targeting Battlefield V, artemking4 who updated reunion's original tool and published it as BFVDumper, adding JSON export and ArmchairDevelopers for the SigScan module extracted from their OpenGameCamera project, which allowws this dumper to target Star Wars Battlefront 2 directly.
+Credits go to reunion (UnknownCheats) who originally wrote this dumper targeting Battlefield V, artemking4 who updated reunion's original tool and published it as BFVDumper, adding JSON export and ArmchairDevelopers for the SigScan module extracted from their OpenGameCamera project, which allows this dumper to target Star Wars Battlefront 2 directly.
 
 Usage:
 
